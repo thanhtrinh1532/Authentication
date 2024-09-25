@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JAVAWEB/WebApp/web/login.html</file>
+            <file>file:/D:/JAVAWEB/WebApp/src/java/trinh/dev/DeleteUserServlet.java</file>
+            <file>file:/D:/JAVAWEB/WebApp/web/index.html</file>
+            <file>file:/D:/JAVAWEB/WebApp/src/java/trinh/dev/EditUserServlet.java</file>
+            <file>file:/D:/JAVAWEB/WebApp/src/java/trinh/dev/UserServlet.java</file>
+            <file>file:/D:/JAVAWEB/WebApp/src/java/trinh/dev/LoginUserServlet.java</file>
+            <file>file:/D:/JAVAWEB/WebApp/web/register.html</file>
+            <file>file:/D:/JAVAWEB/WebApp/src/java/trinh/dev/data/impl/UserImpl.java</file>
+            <file>file:/D:/JAVAWEB/WebApp/src/java/trinh/dev/ListUserServlet.java</file>
+            <file>file:/D:/JAVAWEB/WebApp/src/java/trinh/dev/data/dao/UserDao.java</file>
+        </group>
+    </open-files>
+</project-private>
